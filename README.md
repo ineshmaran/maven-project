@@ -1,3 +1,3 @@
 # maven-project
 
-A simple Maven project to deploy hello world 
+A simple Maven project to deploy hello world.
